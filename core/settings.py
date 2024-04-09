@@ -40,7 +40,7 @@ PROJECT_APPS = [
 
     'apps.blog',
     'apps.portfolio'
-
+    
 
 ]
 

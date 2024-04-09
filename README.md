@@ -64,3 +64,9 @@ Generar siempre la Carpeta *build*
 ```JS 
 npm run build
 ```
+
+## Instalacion de Documentacion
+
+```python 
+pip install coreapi
+```
